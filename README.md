@@ -120,5 +120,6 @@ tr:hover {background-color: #FFC8EF}
 			</div>
   	 </section>
      <!-- end about my hobby section -->
+</div>
 </body>
 </html>
