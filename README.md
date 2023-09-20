@@ -1,5 +1,4 @@
 # sample-21080319
-
 <html>
 <head>
 <title>Phạm Thị Thu Hà - 21080319 - MAS1</title>
@@ -121,5 +120,3 @@ tr:hover {background-color: #FFC8EF}
   	 </section>
      <!-- end about my hobby section -->
 </div>
-</body>
-</html>
