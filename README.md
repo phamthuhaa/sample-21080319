@@ -1,5 +1,5 @@
 # sample-21080319
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Phạm Thị Thu Hà - 21080319 - MAS1</title>
