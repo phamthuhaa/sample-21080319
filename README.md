@@ -118,34 +118,7 @@ tr:hover {background-color: #FFC8EF}
 		
 			<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@thuhalanunune" data-unique-id="thuhalanunune" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@thuhalanunune?refer=creator_embed">@thuhalanunune</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 			</div>
-		<p> Mình cũng là một người rất thích nghe những bài nhạc hay, bài hát mà mình yêu thích nhất là : </p>
-		<audio controls autoplay>
-		<Source src="Audio.mp3" type="Audio/mp3">
-		</audio>
-		<br> </br>
-		</div>
-		</section>
+  	 </section>
      <!-- end about my hobby section -->
-	 
-	 <!-- connect with me section -->
-      <section id="connect-with-me">
-        <h1 class="connect-with-me-title" style="color:#704362;">Connect with me</h1>
-        <div class="connect-with-me-content">
-		<p> Bạn có thể liên lạc với tôi qua đường link Facebook sau đây: </p>
-			<center>
-			<button style="font-size:2,5rem;align:center;background-color:#FFC8EF;border:1px;border-radius:10px;"><a href="https://www.facebook.com/thuhanunuu/">Connect with me</a></button>
-			</center>
-		<p> Hoặc có thể gửi lời nhắn với mình qua đây nhé : </p>
-		<form>
-Tên:<br><input type="text" name="name"><br><br>
-Email:<br><input type="text" name="email"><br><br>
-Lời nhắn:<br><Textarea name="comment" rows="5" cols="40"></textarea><br><br>
-<br><br>
-<input type="submit" name="submit" value="Submit"></form>
-		</div>
-		</section>
-     <!-- end connect with me section -->	
-</div>
-</div>
 </body>
 </html>
